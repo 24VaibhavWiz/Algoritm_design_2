@@ -1,4 +1,4 @@
-public class pro3
+public class Soduko
 {
 
     private static final int SIZE = 9;

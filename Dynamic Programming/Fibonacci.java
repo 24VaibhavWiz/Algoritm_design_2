@@ -1,7 +1,7 @@
 package Algorithm Design;
 import java.util.*;
 //Fibonacci Series using Recursion
-class fibo
+class Fibonacci
 {
 	static int MAX = 1000;
 	static int f[];

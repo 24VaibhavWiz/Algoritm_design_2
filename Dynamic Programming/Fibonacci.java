@@ -1,4 +1,4 @@
-package programming_projects;
+package Algorithm Design;
 import java.util.*;
 //Fibonacci Series using Recursion
 class fibo
